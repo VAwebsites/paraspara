@@ -362,7 +362,7 @@ button {
 /* --------------------------- /////////// IV. HERO SECTION /////////// --------------------------- */
 /* -Hero Image- */
 .hero-unit {
-    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.2)), url(../images/hero.jpg);
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.2)), url(../images/hero.jpeg);
     background-size: cover;
     background-position: top;
     background-attachment: fixed;
@@ -373,7 +373,7 @@ button {
     clip-path: polygon(100% 80%, 50% 100%, 0 80%, 0 0, 100% 0);
 }
 #logo {
-    max-width: 35%;
+    max-width: 20%;
     height: auto;
 }
 /* -Hero Image Caption- */
@@ -455,7 +455,7 @@ button {
     height: auto;
     color: #FFF;
     padding: 6em;
-    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.8)), url(../images/hero.jpg);
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.8)), url(../images/hero.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -582,7 +582,7 @@ button {
     width: 100%;
     height: auto;
     color: #FFF;
-    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.8)), url(../images/hero.jpg);
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.8)), url(../images/hero.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
